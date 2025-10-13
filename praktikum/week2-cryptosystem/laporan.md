@@ -115,12 +115,9 @@ Praktikum ini memperlihatkan bagaimana kriptosistem bekerja menggunakan algoritm
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
-```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+commit 3197da24342e1c5016ce1950486bd613b2655fa8 (HEAD -> main, origin/main, origin/HEAD)
+Author: gilaszeinramdani <gilaszeinramdani@gmail.com>
+Date:   Sat Oct 11 16:09:35 2025 +0700
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week2-cryptosystem
 ```
