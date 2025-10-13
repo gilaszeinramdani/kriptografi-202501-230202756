@@ -99,7 +99,7 @@ Lampiran diagram kriptosistem dan screenshot hasil eksekusi program simple Crypt
 - Jawab       : Plaintext, Ciphertext, Kunci, dan Algoritma.
 - Pertanyaan 2: Apa kelebihan dan kelemahan sistem simetris dibandingkan asimetris?
 - Jawab       : Sistem simetris lebih cepat dan efisien, tetapi kurang aman dalam distribusi kunci. Sedangkan sistem asimetris lebih aman namun membutuhkan waktu proses lebih lama.
-- Pertanyaan 2: Mengapa distribusi kunci menjadi masalah utama dalam kriptografi simetris?
+- Pertanyaan 3: Mengapa distribusi kunci menjadi masalah utama dalam kriptografi simetris?
 - Jawab       : Karena kunci harus dikirimkan ke penerima secara aman. Jika kunci tersebut bocor, pihak lain bisa mendekripsi pesan yang terenkripsi.
 )
 ---
