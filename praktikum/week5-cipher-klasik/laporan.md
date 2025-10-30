@@ -174,6 +174,7 @@ Hasil eksekusi program Caesar Cipher:
 ## 8. Kesimpulan
 Melalui praktikum ini, mahasiswa memahami penerapan cipher klasik seperti Caesar, Vigenère, dan Transposisi.
 Ketiganya mudah diimplementasikan namun tidak aman untuk komunikasi modern karena dapat dipecahkan dengan analisis frekuensi dan brute-force.
+
 ---
 
 ## 9. Daftar Pustaka
