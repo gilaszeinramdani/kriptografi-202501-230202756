@@ -1,7 +1,7 @@
 # Laporan Praktikum Kriptografi
 Minggu ke-: 6  
 Topik: Cipher Modern (DES, AES, RSA)
-Nama: Gils Zein Ramdani  
+Nama: Gilas Zein Ramdani  
 NIM: 230202756  
 Kelas: 5IKRB
 
