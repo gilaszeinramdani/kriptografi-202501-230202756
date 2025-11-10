@@ -81,7 +81,7 @@ Proses pembangkitan: memilih dua bilangan prima besar p dan q, menghitung n = pq
 ---
 
 ## 8. Kesimpulan
-Dalam praktikum ini mahasiswa berhasil mengimplementasikan algoritma DES, AES, dan RSA menggunakan Python. AES dan RSA terbukti bekerja sesuai konsep simetris dan asimetris, sementara DES digunakan sebagai referensi historis. Hasil percobaan menunjukkan seluruh algoritma menghasilkan enkripsi dan dekripsi yang benar sesuai teori.
+Dalam praktikum ini mahasiswa berhasil mengimplementasikan algoritma DES, AES, dan RSA menggunakan Python. AES dan RSA terbukti bekerja sesuai konsep simetris dan asimetris, sementara DES digunakan sebagai referensi historis. Hasil percobaan menunjukkan seluruh algoritma menghasilkan enkripsi dan dekripsi yang benar sesuai teori. 
 ---
 
 ## 9. Daftar Pustaka
