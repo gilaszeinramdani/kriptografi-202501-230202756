@@ -9,6 +9,7 @@ Kelas: 5IKRB
 
 ## 1. Tujuan
 Tujuan dari praktikum ini adalah untuk menganalisis penerapan kriptografi pada protokol SSL/TLS, khususnya pada layanan email dan e-commerce. Mahasiswa diharapkan mampu memahami fungsi sertifikat digital, mekanisme enkripsi dalam transaksi online, serta mengevaluasi isu etika dan privasi dalam penggunaan kriptografi di kehidupan sehari-hari.
+
 ---
 
 ## 2. Dasar Teori
