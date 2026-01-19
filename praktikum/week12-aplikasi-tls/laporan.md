@@ -1,25 +1,27 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 12  
+Topik: Aplikasi TLS & E-commerce
+Nama: Gilas Zein Ramdani 
+NIM: 230202756 
+Kelas: 5IKRB
 
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
-
+Tujuan dari praktikum ini adalah untuk menganalisis penerapan kriptografi pada protokol SSL/TLS, khususnya pada layanan email dan e-commerce. Mahasiswa diharapkan mampu memahami fungsi sertifikat digital, mekanisme enkripsi dalam transaksi online, serta mengevaluasi isu etika dan privasi dalam penggunaan kriptografi di kehidupan sehari-hari.
 ---
 
 ## 2. Dasar Teori
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
+Transport Layer Security (TLS) adalah protokol keamanan yang digunakan untuk melindungi komunikasi data melalui jaringan dengan menyediakan enkripsi, autentikasi, dan integritas data. TLS merupakan pengembangan dari Secure Socket Layer (SSL) dan saat ini menjadi standar keamanan pada komunikasi berbasis HTTPS.
+
+Dalam TLS, sertifikat digital digunakan untuk memverifikasi identitas server melalui Certificate Authority (CA). Proses handshake TLS melibatkan pertukaran kunci menggunakan algoritma kriptografi asimetris seperti RSA atau ECDHE, kemudian komunikasi dilanjutkan menggunakan kriptografi simetris seperti AES karena lebih efisien.
+
+Pada sistem e-commerce, TLS berperan penting dalam melindungi data sensitif seperti kredensial login dan informasi pembayaran. Tanpa enkripsi, data tersebut rentan terhadap serangan seperti Man-in-the-Middle (MITM) dan pencurian data.
 
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.x  
+(- Python 3.12  
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub  
 - Library tambahan (misalnya pycryptodome, jika diperlukan)  )
@@ -64,14 +66,16 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
-)
+- Pertanyaan 1: Apa perbedaan utama antara HTTP dan HTTPS?
+- Jawab       : HTTP tidak menggunakan enkripsi sehingga data dikirim dalam bentuk plaintext, sedangkan HTTPS menggunakan TLS untuk mengenkripsi data sehingga lebih aman.
+- Pertanyaan 2: Mengapa sertifikat digital penting dalam komunikasi TLS?
+- Jawab       : Sertifikat digital digunakan untuk memverifikasi identitas server dan mencegah serangan penyamaran atau Man-in-the-Middle.
+- Pertanyaan 3: Bagaimana kriptografi mendukung privasi dan menimbulkan tantangan etika?
+- Jawab       : Kriptografi melindungi privasi pengguna dengan enkripsi, namun dapat menyulitkan proses pengawasan dan penegakan hukum sehingga menimbulkan dilema etika dan hukum.
 ---
 
 ## 8. Kesimpulan
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
+TLS dan kriptografi berperan penting dalam menjaga keamanan komunikasi digital, khususnya pada layanan email dan e-commerce. Penerapan TLS mampu melindungi data pengguna, namun juga memunculkan tantangan etika terkait privasi dan pengawasan.
 
 ---
 

@@ -101,7 +101,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : CA berfungsi sebagai pihak tepercaya yang menerbitkan dan menandatangani sertifikat digital untuk menjamin keaslian identitas pemilik sertifikat.
 - Pertanyaan 2: Mengapa self-signed certificate tidak cukup untuk sistem produksi?
 - Jawab       : Karena sertifikat self-signed tidak diverifikasi oleh pihak tepercaya sehingga mudah dipalsukan dan akan ditolak oleh browser.
-- Pertanyaan 2: Bagaimana PKI mencegah serangan MITM dalam TLS/HTTPS?
+- Pertanyaan 3: Bagaimana PKI mencegah serangan MITM dalam TLS/HTTPS?
 - Jawab       : PKI mencegah MITM dengan memverifikasi identitas server melalui sertifikat yang ditandatangani CA tepercaya dan menggunakan enkripsi TLS.
 ---
 

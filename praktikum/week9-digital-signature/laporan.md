@@ -98,7 +98,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Enkripsi RSA bertujuan menjaga kerahasiaan pesan dengan mengenkripsi pesan menggunakan public key dan mendekripsinya dengan private key. Tanda tangan digital RSA bertujuan menjamin keaslian dan integritas pesan dengan menandatangani hash pesan menggunakan private key dan memverifikasinya menggunakan public key.
 - Pertanyaan 2: Mengapa tanda tangan digital menjamin integritas dan otentikasi pesan?
 - Jawab       : Karena tanda tangan digital dibuat dari hash pesan dan private key pengirim. Jika pesan diubah, hash akan berubah sehingga verifikasi gagal. Selain itu, hanya pemilik private key yang dapat membuat tanda tangan yang valid.
-- Pertanyaan 2: Bagaimana peran Certificate Authority (CA) dalam sistem tanda tangan digital?
+- Pertanyaan 3: Bagaimana peran Certificate Authority (CA) dalam sistem tanda tangan digital?
 - Jawab       : Certificate Authority berfungsi sebagai pihak tepercaya yang mengaitkan identitas pemilik dengan public key melalui sertifikat digital, sehingga penerima pesan yakin bahwa public key tersebut benar-benar milik pengirim.
 ---
 

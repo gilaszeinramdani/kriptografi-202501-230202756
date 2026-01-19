@@ -124,7 +124,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : DES: cipher simetris, blok 64 bit, kunci efektif 56 bit, rentan brute-force, AES: cipher simetris, blok 128 bit, kunci 128/192/256 bit, sangat aman dan menjadi standar modern, dan RSA: cipher asimetris, menggunakan pasangan kunci, keamanan berdasarkan kesulitan faktorisasi bilangan besar.
 - Pertanyaan 2: Mengapa AES lebih banyak digunakan dibanding DES di era modern?
 - Jawab       : Karena AES memiliki panjang kunci lebih besar, struktur internal lebih kuat, efisien di perangkat modern, dan tidak rentan brute-force seperti DES.
-- Pertanyaan 2: Mengapa RSA dikategorikan sebagai algoritma asimetris, dan bagaimana proses pembangkitan kuncinya?
+- Pertanyaan 3: Mengapa RSA dikategorikan sebagai algoritma asimetris, dan bagaimana proses pembangkitan kuncinya?
 - Jawab       : RSA menggunakan dua kunci berbeda (public dan private).
 Proses pembangkitan: memilih dua bilangan prima besar p dan q, menghitung n = pq, menghitung φ(n), memilih e, dan mencari d sebagai invers modular dari e. 
 

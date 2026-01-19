@@ -107,7 +107,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Aritmetika modular memungkinkan perhitungan yang aman dan efisien pada sistem bilangan terbatas. Hampir semua algoritma kriptografi modern seperti RSA dan ECC bergantung pada operasi modular untuk menjaga keamanan data.
 - Pertanyaan 2: Mengapa invers modular penting dalam algoritma kunci publik (misalnya RSA)?
 - Jawab       : Karena enkripsi dan dekripsi menggunakan pasangan eksponen yang merupakan invers modular satu sama lain terhadap φ(n). Tanpa invers modular, proses dekripsi tidak dapat dilakukan dengan benar.
-- Pertanyaan 2: Apa tantangan utama dalam menyelesaikan logaritma diskrit untuk modulus besar?
+- Pertanyaan 3: Apa tantangan utama dalam menyelesaikan logaritma diskrit untuk modulus besar?
 - Jawab       : Kompleksitas komputasi yang sangat tinggi. Tidak ada algoritma efisien yang mampu menghitung logaritma diskrit untuk bilangan besar, sehingga inilah yang menjamin keamanan algoritma kriptografi berbasis logaritma diskrit.
 ---
 

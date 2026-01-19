@@ -90,7 +90,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Karena nilai public key tidak dapat digunakan untuk menghitung private key tanpa menyelesaikan masalah logaritma diskrit, yang sangat sulit secara komputasional.
 - Pertanyaan 2: Apa kelemahan utama Diffie-Hellman murni?
 - Jawab       : Protokol ini tidak menyediakan autentikasi, sehingga rawan terhadap serangan MITM.
-- Pertanyaan 2: Bagaimana cara mencegah serangan MITM pada Diffie-Hellman?
+- Pertanyaan 3: Bagaimana cara mencegah serangan MITM pada Diffie-Hellman?
 - Jawab       : Dengan menambahkan mekanisme autentikasi seperti digital signature, sertifikat CA, atau menggunakan protokol modern seperti TLS dengan Authenticated Key Exchange / ECDHE.
 ---
 

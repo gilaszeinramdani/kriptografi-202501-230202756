@@ -167,7 +167,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Caesar Cipher mudah dipecahkan karena hanya memiliki 25 kemungkinan kunci, dan Vigenère Cipher lebih aman tetapi tetap bisa diserang dengan analisis frekuensi atau metode Kasiski jika panjang kunci diketahui.
 - Pertanyaan 2: Mengapa cipher klasik mudah diserang dengan analisis frekuensi?
 - Jawab       : Karena distribusi huruf pada ciphertext masih mencerminkan pola bahasa alami (seperti huruf “E” atau “A” yang sering muncul).
-- Pertanyaan 2: Bandingkan substitusi dan transposisi.
+- Pertanyaan 3: Bandingkan substitusi dan transposisi.
 - Jawab       : Substitusi mengganti karakter dengan karakter lain, Transposisi hanya menukar posisi karakter tanpa mengganti isinya, dan Kombinasi keduanya menghasilkan cipher yang lebih kuat (contohnya pada algoritma modern). 
 ---
 

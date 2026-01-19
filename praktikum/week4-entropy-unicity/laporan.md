@@ -98,7 +98,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Entropy menunjukkan seberapa besar ketidakpastian dalam ruang kunci. Semakin tinggi nilai entropi, semakin sulit penyerang menebak kunci dengan brute force.
 - Pertanyaan 2: Mengapa unicity distance penting dalam menentukan keamanan suatu cipher?
 - Jawab       : Karena unicity distance menentukan seberapa panjang ciphertext yang dibutuhkan agar bisa dianalisis secara unik. Jika nilainya kecil, cipher mudah dipecahkan dengan sedikit data.
-- Pertanyaan 2: AMengapa brute force masih menjadi ancaman meskipun algoritma sudah kuat?
+- Pertanyaan 3: AMengapa brute force masih menjadi ancaman meskipun algoritma sudah kuat?
 - Jawab       : Karena kemajuan teknologi dapat meningkatkan kecepatan komputasi, sehingga waktu brute force untuk beberapa cipher yang dulu aman bisa menjadi realistis di masa depan. 
 )
 ---

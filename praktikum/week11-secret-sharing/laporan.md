@@ -132,7 +132,7 @@ Hasil eksekusi program Caesar Cipher:
 - Jawab       : Keuntungan utama SSS adalah peningkatan keamanan karena rahasia tidak disimpan secara utuh di satu pihak, sehingga mengurangi risiko kebocoran.
 - Pertanyaan 2: Apa peran threshold (k) dalam keamanan secret sharing?
 - Jawab       : Threshold menentukan jumlah minimal shares yang dibutuhkan untuk merekonstruksi rahasia dan berperan penting dalam keseimbangan antara keamanan dan ketersediaan.
-- Pertanyaan 2: Berikan satu contoh penerapan Shamir Secret Sharing.
+- Pertanyaan 3: Berikan satu contoh penerapan Shamir Secret Sharing.
 - Jawab       : SSS digunakan dalam manajemen kunci cryptocurrency, di mana private key dibagi kepada beberapa pihak.
 ---
 
